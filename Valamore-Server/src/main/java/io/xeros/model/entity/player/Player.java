@@ -709,6 +709,24 @@ public class Player extends Entity {
     public int specRestore;
     public int petSummonId;
     public int clickedNpcIndex;
+    // ==================== Casino System Fields ====================
+    public long casinoCooldown;
+    public io.xeros.content.casino.CasinoAction casinoAction = io.xeros.content.casino.CasinoAction.NONE;
+    public String casinoSelectedGame;
+    public boolean bjActive;
+    public java.util.List<Integer> bjDeck;
+    public java.util.List<Integer> bjPlayerHand;
+    public java.util.List<Integer> bjDealerHand;
+    public int bjWager;
+    public boolean bjDoubled;
+    public boolean minesActive;
+    public boolean[] minesGrid;
+    public boolean[] minesRevealed;
+    public int minesWager;
+    public int minesMineCount;
+    public int minesSafeCount;
+    public double minesCurrentMultiplier;
+
     public int diceMin;
     public int diceMax;
     public int otherDiceId;
@@ -1711,6 +1729,9 @@ public class Player extends Entity {
             PestControl.removeFromLobby(this);
         }
         Server.getMultiplayerSessionListener().removeOldRequests(this);
+        // Casino system cleanup
+        io.xeros.content.casino.CoinFlip.cleanupPlayer(this);
+        io.xeros.content.casino.MinesGame.cleanupPlayer(this);
         Server.getEventHandler().stop(this);
         CycleEventHandler.getSingleton().stopEvents(this);
 

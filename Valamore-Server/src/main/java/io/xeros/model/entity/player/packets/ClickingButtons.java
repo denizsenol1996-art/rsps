@@ -2412,6 +2412,9 @@ public class ClickingButtons implements PacketType {
 	}
 
 	private static void dialogueOption(Player c, int buttonId) {
+		if (io.xeros.content.casino.CasinoDialogueHandler.handleClick(c, buttonId)) {
+			return;
+		}
 		switch (buttonId) {
 			case 9167:
 				if (c.getDialogueBuilder() != null) {
