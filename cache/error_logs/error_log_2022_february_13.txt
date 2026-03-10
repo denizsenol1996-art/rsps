@@ -1,0 +1,121 @@
+Feb 13, 2022 3:08:20 PM com.client.CacheDownloader downloadCache
+INFO: Cache does not exist, downloading.
+Feb 13, 2022 3:08:56 PM com.client.CacheDownloader deleteZip
+SEVERE: Cannot delete cache zip file.
+Feb 13, 2022 3:08:57 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 3:32:43 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 3:32:44 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 3:58:46 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 3:58:47 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 4:15:03 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 4:15:04 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 5:53:49 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 5:53:50 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 6:14:16 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 6:14:17 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 6:17:10 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 6:17:11 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 6:18:37 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 6:18:38 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+java.io.FileNotFoundException: \temp\itemlist.txt (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at java.io.FileWriter.<init>(FileWriter.java:63)
+	at com.client.definitions.ItemDefinition.itemDump(ItemDefinition.java:2267)
+	at com.client.Client.startUp(Client.java:10922)
+	at com.client.RSApplet.run(RSApplet.java:247)
+	at com.client.Client.run(Client.java:6895)
+	at java.lang.Thread.run(Thread.java:750)
+Feb 13, 2022 6:19:00 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 6:19:00 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+java.io.FileNotFoundException: \temp\itemlist.txt (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at java.io.FileWriter.<init>(FileWriter.java:63)
+	at com.client.definitions.ItemDefinition.itemDump(ItemDefinition.java:2267)
+	at com.client.Client.startUp(Client.java:10922)
+	at com.client.RSApplet.run(RSApplet.java:247)
+	at com.client.Client.run(Client.java:6895)
+	at java.lang.Thread.run(Thread.java:750)
+Feb 13, 2022 6:19:27 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 6:19:27 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 6:21:16 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 6:21:20 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 6:21:21 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 6:23:16 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 6:23:17 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 6:23:22 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 6:23:23 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 6:25:04 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 6:25:05 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 6:26:21 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 6:26:21 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 6:29:47 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 6:29:47 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 6:32:57 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 6:32:58 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 6:33:51 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 6:33:52 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 6:39:12 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 6:39:13 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 6:43:53 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 6:43:54 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 9:08:17 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 9:08:18 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 13, 2022 9:09:55 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 9:10:00 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 9:10:02 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+ Click HERE to view drops for Rock Crab - 1599
+Feb 13, 2022 10:58:39 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 13, 2022 10:58:40 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.

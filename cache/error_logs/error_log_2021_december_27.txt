@@ -1,0 +1,10 @@
+Dec 27, 2021 10:21:37 AM com.client.CacheDownloader downloadCache
+INFO: Cache does not exist, downloading.
+Dec 27, 2021 10:22:03 AM com.client.CacheDownloader deleteZip
+SEVERE: Cannot delete cache zip file.
+Dec 27, 2021 10:22:08 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Dec 27, 2021 10:24:40 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=50, remote=50
+Dec 27, 2021 10:25:27 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.

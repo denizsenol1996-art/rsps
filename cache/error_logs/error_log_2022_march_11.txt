@@ -1,0 +1,138 @@
+Mar 11, 2022 12:18:18 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 12:18:19 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 12:35:42 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 12:35:43 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 12:38:01 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 12:38:02 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 12:46:01 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 12:46:02 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 12:48:48 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 12:48:50 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 12:49:46 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 12:49:47 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 12:56:56 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 12:56:59 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 1:00:35 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 1:00:35 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 1:05:05 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 1:05:05 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 1:45:26 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 1:45:27 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 1:51:04 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 1:51:08 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 1:52:01 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 1:52:02 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+[{"opcode":65,"length":1,"buffer":[0]},{"opcode":81,"length":2,"buffer":[0,111]},{"opcode":65,"length":1,"buffer":[0]},{"opcode":81,"length":2,"buffer":[0,111]},{"opcode":65,"length":1,"buffer":[0]},{"opcode":81,"length":2,"buffer":[0,111]},{"opcode":65,"length":1,"buffer":[0]},{"opcode":81,"length":2,"buffer":[0,111]},{"opcode":65,"length":1,"buffer":[0]},{"opcode":97,"length":2,"buffer":[-60,-11]}]
+java.lang.NullPointerException
+	at com.client.Client.method60(Client.java:4413)
+	at com.client.Client.parsePacket(Client.java:17273)
+	at com.client.Client.mainGameProcessor(Client.java:4473)
+	at com.client.Client.processGameLoop(Client.java:3588)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6898)
+	at java.lang.Thread.run(Thread.java:750)
+Error: T2 - 97,65,81 - 2,3035,6067 - -60,-11,
+Mar 11, 2022 8:16:53 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 8:16:54 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 9:04:50 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 9:04:51 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 9:30:35 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 9:30:36 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 9:34:09 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 9:34:10 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 9:49:49 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 9:49:50 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 11:02:20 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 11:02:21 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 11:05:06 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 11:05:06 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 11:07:23 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 11:07:24 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 11:08:23 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 11:08:24 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 11:09:16 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 11:09:17 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 11:12:34 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 11:12:36 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 11:12:55 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 11:12:55 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 11:13:44 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 11:13:45 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 11:18:34 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 11:18:35 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 11:20:45 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 11:20:46 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 11:23:36 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 11:23:37 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 11:26:49 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 11:26:49 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 11:29:14 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 11:29:14 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 11:30:09 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 11:30:10 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 11, 2022 11:33:23 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 11, 2022 11:33:24 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.

@@ -25,8 +25,8 @@ public class DynamicHealthBarUpdate extends HealthBarUpdate {
         this.maxHealth = maxHealth;
         this.decreaseSpeed = decreaseSpeed;
         this.delay = delay;
-        this.startBarWidth = (int) (((double) startHealth / maxHealth) * this.template.getWidth());
-        this.endBarWidth = (int) (((double) endHealth / maxHealth) * this.template.getWidth());
+        this.startBarWidth = (int) (((double) startHealth / maxHealth) * getWidth());
+        this.endBarWidth = (int) (((double) endHealth / maxHealth) * getWidth());
     }
 
 }

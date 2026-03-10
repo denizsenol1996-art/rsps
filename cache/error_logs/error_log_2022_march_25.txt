@@ -1,0 +1,43 @@
+Mar 25, 2022 8:55:32 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 25, 2022 8:55:33 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Error reading Class36 file: 1744
+Mar 25, 2022 8:58:16 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 25, 2022 8:58:19 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+Mar 25, 2022 9:04:04 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 25, 2022 9:04:06 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+Mar 25, 2022 9:29:08 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 25, 2022 9:29:10 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 25, 2022 9:51:37 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 25, 2022 9:51:43 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 25, 2022 10:04:13 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 25, 2022 10:04:14 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 25, 2022 10:12:32 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 25, 2022 10:12:38 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 25, 2022 10:12:40 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 25, 2022 10:57:08 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 25, 2022 10:57:15 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 25, 2022 11:13:24 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 25, 2022 11:13:25 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.

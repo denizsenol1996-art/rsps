@@ -1,0 +1,35 @@
+Apr 08, 2022 7:11:35 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Apr 08, 2022 7:11:36 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Apr 08, 2022 8:52:29 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Apr 08, 2022 8:52:29 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Apr 08, 2022 8:52:54 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Apr 08, 2022 8:52:55 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Apr 08, 2022 8:53:11 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Apr 08, 2022 8:53:12 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Apr 08, 2022 8:53:50 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Apr 08, 2022 8:53:51 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+java.lang.ArrayIndexOutOfBoundsException: -5466
+	at com.client.definitions.ItemDefinition.forID(ItemDefinition.java:86)
+	at com.client.definitions.ItemDefinition.itemDump(ItemDefinition.java:2504)
+	at com.client.Client.startUp(Client.java:10944)
+	at com.client.RSApplet.run(RSApplet.java:247)
+	at com.client.Client.run(Client.java:6905)
+	at java.lang.Thread.run(Thread.java:750)
+Apr 08, 2022 8:54:57 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Apr 08, 2022 8:54:58 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Apr 08, 2022 8:57:35 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Apr 08, 2022 8:57:36 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.

@@ -1,0 +1,12 @@
+Apr 02, 2022 8:12:39 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Apr 02, 2022 8:12:40 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+ Click HERE to view drops for Revenant demon - 2391
+Click HERE to view drops for Revenant demon
+ Click HERE to view drops for Revenant demon - 2391
+Click HERE to view drops for Revenant demon
+ Click HERE to view drops for Revenant cyclops - 2393
+Click HERE to view drops for Revenant demon
+Click HERE to view drops for Revenant cyclops
+ Click HERE to view drops for Revenant ork - 2392

@@ -73,7 +73,7 @@ public class ServerStartup {
                 System.exit(1);
             }
         });
-        CacheManager.INSTANCE.init(AssetLoader.getFolder("cache").toPath(), 221);
+        CacheManager.INSTANCE.init(AssetLoader.getFolder("cache").toPath(), 220);
         WeaponAnimation.loadEquipmentDefinitions(Path.of("etc", "cfg", "combat", "attack_animations.json").toFile());
         DonationReward.load();
         PlayerSave.loadPlayerSaveEntries();

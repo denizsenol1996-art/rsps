@@ -1,0 +1,10 @@
+Feb 03, 2022 5:37:22 AM com.client.CacheDownloader downloadCache
+INFO: Cache does not exist, downloading.
+Feb 03, 2022 5:37:54 AM com.client.CacheDownloader deleteZip
+SEVERE: Cannot delete cache zip file.
+Feb 03, 2022 5:37:56 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 03, 2022 5:50:17 AM com.client.CacheDownloader deleteZip
+SEVERE: Cannot delete cache zip file.
+Feb 03, 2022 5:50:20 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.

@@ -19,7 +19,7 @@ public class StaticHealthBarUpdate extends HealthBarUpdate {
         this.curHealth = curHealth;
         this.maxHealth = maxHealth;
         this.delay = delay;
-        this.barWidth = (int) (((double) curHealth / maxHealth) * this.template.getWidth());
+        this.barWidth = (int) (((double) curHealth / maxHealth) * getWidth());
     }
 
     public StaticHealthBarUpdate(Entity entity) {
@@ -27,7 +27,7 @@ public class StaticHealthBarUpdate extends HealthBarUpdate {
         this.curHealth = entity.getHealth().getCurrentHealth();
         this.maxHealth = entity.getHealth().getMaximumHealth();
         this.delay = 0;
-        this.barWidth = (int) (((double) curHealth / maxHealth) * this.template.getWidth());
+        this.barWidth = (int) (((double) curHealth / maxHealth) * getWidth());
     }
 
 }

@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 
 import com.google.common.base.Preconditions;
 import com.google.common.util.concurrent.ThreadFactoryBuilder;
-import com.varlamore.RunJs5;
+// removed varlamore import
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelOption;
 import io.netty.channel.EventLoopGroup;
@@ -170,7 +170,7 @@ public class Server {
     public static void main(String... args) {
         disableWarning();
         AssetLoader.initCache();
-        RunJs5.INSTANCE.init();
+// RunJs5 removed
         new GameThread(() -> {
             try {
                 System.out.println("[" + Calendar.getInstance().getTime() + "]: Launching " + Configuration.SERVER_NAME + ".");

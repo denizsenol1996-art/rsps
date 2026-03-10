@@ -1,0 +1,151 @@
+Mar 06, 2022 3:52:20 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 06, 2022 3:52:20 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 06, 2022 4:03:53 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 06, 2022 4:03:54 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Exception "java.lang.ClassNotFoundException: com/intellij/openapi/editor/RawText"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.openapi.editor.RawText
+Exception "java.lang.ClassNotFoundException: com/intellij/openapi/editor/RawText"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.openapi.editor.RawText
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+Mar 06, 2022 5:46:26 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 06, 2022 5:46:27 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 06, 2022 6:19:49 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 06, 2022 6:19:49 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 06, 2022 6:31:33 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "destroyable" (class com.client.definitions.server.ItemDef), not marked as ignorable (13 known properties: "stackable", "untradeable", "name", "noteId", "requirements", "noted", "equipmentModelType", "checkBeforeDrop", "id", "description", "undroppable", "shopValue", "deletedOnDeath"])
+ at [Source: C:\Users\Molana\.os-sona_v2V2\etc\item_definitions.yaml; line: 26568, column: 20] (through reference chain: java.util.ArrayList[5090]->com.client.definitions.server.ItemDef["destroyable"])
+	at com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException.from(UnrecognizedPropertyException.java:62)
+	at com.fasterxml.jackson.databind.DeserializationContext.handleUnknownProperty(DeserializationContext.java:834)
+	at com.fasterxml.jackson.databind.deser.std.StdDeserializer.handleUnknownProperty(StdDeserializer.java:1093)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializerBase.handleUnknownProperty(BeanDeserializerBase.java:1477)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializerBase.handleUnknownVanilla(BeanDeserializerBase.java:1455)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:282)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:140)
+	at com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:287)
+	at com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:259)
+	at com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:26)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:3798)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:2759)
+	at com.client.utilities.JsonUtil.fromYaml(JsonUtil.java:116)
+	at com.client.definitions.server.ItemDef.load(ItemDef.java:31)
+	at com.client.Client.startUp(Client.java:10713)
+	at com.client.RSApplet.run(RSApplet.java:247)
+	at com.client.Client.run(Client.java:6898)
+	at java.lang.Thread.run(Thread.java:750)
+Error: loaderror Loading title screen - 0% 10
+Mar 06, 2022 6:32:23 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "destroyable" (class com.client.definitions.server.ItemDef), not marked as ignorable (13 known properties: "stackable", "untradeable", "name", "noteId", "requirements", "noted", "equipmentModelType", "checkBeforeDrop", "id", "description", "undroppable", "shopValue", "deletedOnDeath"])
+ at [Source: C:\Users\Molana\.os-sona_v2V2\etc\item_definitions.yaml; line: 26568, column: 20] (through reference chain: java.util.ArrayList[5090]->com.client.definitions.server.ItemDef["destroyable"])
+	at com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException.from(UnrecognizedPropertyException.java:62)
+	at com.fasterxml.jackson.databind.DeserializationContext.handleUnknownProperty(DeserializationContext.java:834)
+	at com.fasterxml.jackson.databind.deser.std.StdDeserializer.handleUnknownProperty(StdDeserializer.java:1093)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializerBase.handleUnknownProperty(BeanDeserializerBase.java:1477)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializerBase.handleUnknownVanilla(BeanDeserializerBase.java:1455)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:282)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:140)
+	at com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:287)
+	at com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:259)
+	at com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:26)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:3798)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:2759)
+	at com.client.utilities.JsonUtil.fromYaml(JsonUtil.java:116)
+	at com.client.definitions.server.ItemDef.load(ItemDef.java:31)
+	at com.client.Client.startUp(Client.java:10713)
+	at com.client.RSApplet.run(RSApplet.java:247)
+	at com.client.Client.run(Client.java:6898)
+	at java.lang.Thread.run(Thread.java:750)
+Error: loaderror Loading title screen - 0% 10
+Mar 06, 2022 6:34:49 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "parent" (class com.client.definitions.server.ItemDef), not marked as ignorable (13 known properties: "stackable", "untradeable", "name", "noteId", "requirements", "noted", "equipmentModelType", "checkBeforeDrop", "id", "description", "undroppable", "shopValue", "deletedOnDeath"])
+ at [Source: C:\Users\Molana\.os-sona_v2V2\etc\item_definitions.yaml; line: 57747, column: 15] (through reference chain: java.util.ArrayList[11314]->com.client.definitions.server.ItemDef["parent"])
+	at com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException.from(UnrecognizedPropertyException.java:62)
+	at com.fasterxml.jackson.databind.DeserializationContext.handleUnknownProperty(DeserializationContext.java:834)
+	at com.fasterxml.jackson.databind.deser.std.StdDeserializer.handleUnknownProperty(StdDeserializer.java:1093)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializerBase.handleUnknownProperty(BeanDeserializerBase.java:1477)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializerBase.handleUnknownVanilla(BeanDeserializerBase.java:1455)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:282)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:140)
+	at com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:287)
+	at com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:259)
+	at com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:26)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:3798)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:2759)
+	at com.client.utilities.JsonUtil.fromYaml(JsonUtil.java:116)
+	at com.client.definitions.server.ItemDef.load(ItemDef.java:31)
+	at com.client.Client.startUp(Client.java:10713)
+	at com.client.RSApplet.run(RSApplet.java:247)
+	at com.client.Client.run(Client.java:6898)
+	at java.lang.Thread.run(Thread.java:750)
+Error: loaderror Loading title screen - 0% 10
+Mar 06, 2022 6:37:45 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 06, 2022 6:37:46 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 06, 2022 6:39:26 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+com.fasterxml.jackson.dataformat.yaml.snakeyaml.error.MarkedYAMLException: while parsing a block collection
+ in 'reader', line 2, column 1:
+    - id: 0
+    ^
+expected <block end>, but found Key
+ in 'reader', line 41946, column 1:
+    -- id: 8827
+    ^
+
+ at [Source: C:\Users\Molana\.os-sona_v2V2\etc\item_definitions.yaml; line: 41946, column: 1]
+	at com.fasterxml.jackson.dataformat.yaml.snakeyaml.error.MarkedYAMLException.from(MarkedYAMLException.java:27)
+	at com.fasterxml.jackson.dataformat.yaml.YAMLParser.nextToken(YAMLParser.java:343)
+	at com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:281)
+	at com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:259)
+	at com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:26)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:3798)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:2759)
+	at com.client.utilities.JsonUtil.fromYaml(JsonUtil.java:116)
+	at com.client.definitions.server.ItemDef.load(ItemDef.java:31)
+	at com.client.Client.startUp(Client.java:10713)
+	at com.client.RSApplet.run(RSApplet.java:247)
+	at com.client.Client.run(Client.java:6898)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: while parsing a block collection
+ in 'reader', line 2, column 1:
+    - id: 0
+    ^
+expected <block end>, but found Key
+ in 'reader', line 41946, column 1:
+    -- id: 8827
+    ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockSequenceEntry.produce(ParserImpl.java:513)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:157)
+	at org.yaml.snakeyaml.parser.ParserImpl.getEvent(ParserImpl.java:167)
+	at com.fasterxml.jackson.dataformat.yaml.YAMLParser.nextToken(YAMLParser.java:340)
+	... 11 more
+Error: loaderror Loading title screen - 0% 10
+Mar 06, 2022 6:40:46 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 06, 2022 6:40:49 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 06, 2022 6:40:50 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 06, 2022 6:42:41 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 06, 2022 6:42:41 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Exception "java.lang.ClassNotFoundException: com/intellij/openapi/editor/RawText"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.openapi.editor.RawText
+Exception "java.lang.ClassNotFoundException: com/intellij/openapi/editor/RawText"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.openapi.editor.RawText
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
+Mar 06, 2022 6:55:50 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=90, remote=90
+Mar 06, 2022 6:55:51 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.

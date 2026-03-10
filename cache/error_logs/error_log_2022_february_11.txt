@@ -1,0 +1,6 @@
+Feb 11, 2022 9:30:21 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=55, remote=54
+Feb 11, 2022 9:30:45 AM com.client.CacheDownloader deleteZip
+SEVERE: Cannot delete cache zip file.
+Feb 11, 2022 9:30:48 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.

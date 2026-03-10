@@ -1,0 +1,7 @@
+Could not load icon image.
+Jan 12, 2022 9:31:06 PM com.client.CacheDownloader downloadCache
+INFO: Cache does not exist, downloading.
+Jan 12, 2022 9:31:35 PM com.client.CacheDownloader deleteZip
+SEVERE: Cannot delete cache zip file.
+Jan 12, 2022 9:31:40 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.

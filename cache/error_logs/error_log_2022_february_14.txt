@@ -1,0 +1,107 @@
+Feb 14, 2022 12:22:08 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 12:22:09 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 14, 2022 3:22:05 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 3:22:06 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 14, 2022 4:05:52 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 4:05:57 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 14, 2022 11:42:28 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 11:42:29 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 14, 2022 11:49:31 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 11:49:32 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Exception in thread "Thread-6" java.lang.NoClassDefFoundError: com/client/features/gametimers/GameTimerHandler
+	at com.client.Client.startUp(Client.java:10890)
+	at com.client.RSApplet.run(RSApplet.java:247)
+	at com.client.Client.run(Client.java:6895)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.ClassNotFoundException: com.client.features.gametimers.GameTimerHandler
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:387)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:352)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 4 more
+Feb 14, 2022 11:51:05 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 11:51:06 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 14, 2022 12:04:14 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 12:04:14 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 14, 2022 12:04:38 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 12:04:39 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 14, 2022 12:06:33 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 12:07:09 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 12:07:10 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 14, 2022 12:12:23 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 12:12:24 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 14, 2022 12:16:59 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 12:17:00 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Exception in thread "Thread-6" java.lang.NoClassDefFoundError: com/client/RSSocket
+	at com.client.Client.login(Client.java:9586)
+	at com.client.Client.processLoginScreenInput(Client.java:15653)
+	at com.client.Client.processGameLoop(Client.java:3586)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6898)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.ClassNotFoundException: com.client.RSSocket
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:387)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:352)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 6 more
+Feb 14, 2022 12:17:13 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 12:17:14 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 14, 2022 12:18:12 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 12:18:12 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 14, 2022 12:18:48 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 12:18:49 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 14, 2022 12:24:52 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 12:24:53 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 14, 2022 12:46:55 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 12:46:56 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 14, 2022 12:50:32 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 12:50:33 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+ Click HERE to view drops for Corrupted Dragon - 3292
+Click HERE to view drops for Corrupted Dragon
+ Click HERE to view drops for Corrupted Dragon - 3292
+Click HERE to view drops for Corrupted Dragon
+ Click HERE to view drops for Corrupted Dragon - 3292
+Feb 14, 2022 1:26:29 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 1:26:30 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 14, 2022 1:27:32 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=71, remote=71
+Feb 14, 2022 1:27:33 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.

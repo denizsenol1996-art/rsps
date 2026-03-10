@@ -1,0 +1,14 @@
+Dec 22, 2021 5:43:04 AM com.client.CacheDownloader downloadCache
+INFO: Cache does not exist, downloading.
+java.io.FileNotFoundException: http://xerosio.site.nfoservers.com/xerosv2/v0.049.zip
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1896)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at com.client.CacheDownloader.downloadFile(CacheDownloader.java:132)
+	at com.client.CacheDownloader.update(CacheDownloader.java:116)
+	at com.client.CacheDownloader.downloadCache(CacheDownloader.java:90)
+	at com.client.Client.startUp(Client.java:10686)
+	at com.client.RSApplet.run(RSApplet.java:247)
+	at com.client.Client.run(Client.java:6893)
+	at java.lang.Thread.run(Thread.java:748)
+Dec 22, 2021 5:43:09 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.

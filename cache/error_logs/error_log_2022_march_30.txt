@@ -1,0 +1,82 @@
+Mar 30, 2022 12:21:57 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 30, 2022 12:21:58 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 30, 2022 12:32:48 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 30, 2022 12:32:48 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 30, 2022 12:54:07 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 30, 2022 12:54:08 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 30, 2022 1:00:08 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 30, 2022 1:00:09 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 30, 2022 6:48:51 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 30, 2022 6:48:52 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 30, 2022 7:02:42 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 30, 2022 7:02:43 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+ Click HERE to view drops for King Black Dragon - 3193
+Exception in thread "Thread-6" java.lang.ArrayIndexOutOfBoundsException: 104
+	at com.client.Client.method120(Client.java:13946)
+	at com.client.Client.method146(Client.java:17645)
+	at com.client.Client.drawGameScreen(Client.java:11640)
+	at com.client.Client.processDrawing(Client.java:13317)
+	at com.client.RSApplet.run(RSApplet.java:311)
+	at com.client.Client.run(Client.java:6899)
+	at java.lang.Thread.run(Thread.java:750)
+Mar 30, 2022 7:45:49 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 30, 2022 7:45:50 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Exception in thread "Thread-6" java.lang.ArrayIndexOutOfBoundsException: -1
+	at com.client.Client.method120(Client.java:13946)
+	at com.client.Client.method146(Client.java:17645)
+	at com.client.Client.drawGameScreen(Client.java:11640)
+	at com.client.Client.processDrawing(Client.java:13317)
+	at com.client.RSApplet.run(RSApplet.java:311)
+	at com.client.Client.run(Client.java:6899)
+	at java.lang.Thread.run(Thread.java:750)
+Mar 30, 2022 7:46:18 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 30, 2022 7:46:19 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 30, 2022 8:25:28 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 30, 2022 8:25:29 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Mar 30, 2022 8:50:32 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=91, remote=91
+Mar 30, 2022 8:50:33 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+ Click HERE to view drops for Lava dragon - 3195
+Click HERE to view drops for Lava dragon
+ Click HERE to view drops for Revenant hellhound - 3190
+Click HERE to view drops for Lava dragon
+Click HERE to view drops for Revenant hellhound
+ Click HERE to view drops for Revenant pyrefiend - 3191
+Click HERE to view drops for Lava dragon
+Click HERE to view drops for Revenant hellhound
+Click HERE to view drops for Revenant pyrefiend
+ Click HERE to view drops for Revenant ork - 3188
+Click HERE to view drops for Lava dragon
+Click HERE to view drops for Revenant hellhound
+Click HERE to view drops for Revenant pyrefiend
+ Click HERE to view drops for Revenant pyrefiend - 3187
+Click HERE to view drops for Lava dragon
+Click HERE to view drops for Revenant hellhound
+Click HERE to view drops for Revenant pyrefiend
+Click HERE to view drops for Revenant ork
+ Click HERE to view drops for Revenant dragon - 3182
+Click HERE to view drops for Lava dragon
+Click HERE to view drops for Revenant hellhound
+Click HERE to view drops for Revenant pyrefiend
+Click HERE to view drops for Revenant ork
+Click HERE to view drops for Revenant dragon
+ Click HERE to view drops for Revenant demon - 3192
